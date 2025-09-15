@@ -14,11 +14,11 @@
 		</data>
 		<key>Modules/BlitzzCobrowseSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		6cajgOEt22OFQwYKqgxBRPC4oeU=
+		V5SyW7WS8W556V+qeC9yPPDQPcs=
 		</data>
 		<key>Modules/BlitzzCobrowseSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		WF/Na66z70kLQ83L8uRdnMYUcqU=
+		SNKfhdC958namyfefaAyyx2zsgQ=
 		</data>
 		<key>Modules/BlitzzCobrowseSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -26,19 +26,19 @@
 		</data>
 		<key>Modules/BlitzzCobrowseSDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		WF/Na66z70kLQ83L8uRdnMYUcqU=
+		SNKfhdC958namyfefaAyyx2zsgQ=
 		</data>
 		<key>Modules/BlitzzCobrowseSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		kUnlhLWMGfIZ9kYiaN6mpz+s4Xo=
+		cw/i8Wlro7ezuM5eDBsMDb70qLg=
 		</data>
 		<key>Modules/BlitzzCobrowseSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		6cajgOEt22OFQwYKqgxBRPC4oeU=
+		V5SyW7WS8W556V+qeC9yPPDQPcs=
 		</data>
 		<key>Modules/BlitzzCobrowseSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		5XR65/mbshRuyEXvMPbgOgCXHeg=
+		qnAhqwgBTOJq9lGizazZYLqCyC4=
 		</data>
 		<key>Modules/BlitzzCobrowseSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -46,11 +46,11 @@
 		</data>
 		<key>Modules/BlitzzCobrowseSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		5XR65/mbshRuyEXvMPbgOgCXHeg=
+		qnAhqwgBTOJq9lGizazZYLqCyC4=
 		</data>
 		<key>Modules/BlitzzCobrowseSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		9qu+C3c/R7y1gBqjsJ8dOR2lLgI=
+		ZWH3TJm0Brk1FdCO9CgnIKF/C04=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -74,22 +74,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			6cajgOEt22OFQwYKqgxBRPC4oeU=
+			V5SyW7WS8W556V+qeC9yPPDQPcs=
 			</data>
 			<key>hash2</key>
 			<data>
-			bnII8X1UvrazlU4lNDEyLG6TYAuSY9MlBpkC2CVJ7qQ=
+			pj+jYFZTl7aFqZAP/4AP8lZP3mKubC6wSm1wxs3lbeg=
 			</data>
 		</dict>
 		<key>Modules/BlitzzCobrowseSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			WF/Na66z70kLQ83L8uRdnMYUcqU=
+			SNKfhdC958namyfefaAyyx2zsgQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			WuayltWBKWTzfTSdv1jbGgL5WhePWGA6+qQiYkOnmCM=
+			vgLQnOIRrAnPZ3CvGjexf4XbKNbh2e5zLBajt6aukz0=
 			</data>
 		</dict>
 		<key>Modules/BlitzzCobrowseSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -107,44 +107,44 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			WF/Na66z70kLQ83L8uRdnMYUcqU=
+			SNKfhdC958namyfefaAyyx2zsgQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			WuayltWBKWTzfTSdv1jbGgL5WhePWGA6+qQiYkOnmCM=
+			vgLQnOIRrAnPZ3CvGjexf4XbKNbh2e5zLBajt6aukz0=
 			</data>
 		</dict>
 		<key>Modules/BlitzzCobrowseSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			kUnlhLWMGfIZ9kYiaN6mpz+s4Xo=
+			cw/i8Wlro7ezuM5eDBsMDb70qLg=
 			</data>
 			<key>hash2</key>
 			<data>
-			1cGL/mhKyWF3xS5qC34ImQzH2GENgBPd/3BG2rlHbk4=
+			VrZEE9DIEuojCQ8n7skG6yHusTRLOIKwK1d+cPv8UM0=
 			</data>
 		</dict>
 		<key>Modules/BlitzzCobrowseSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			6cajgOEt22OFQwYKqgxBRPC4oeU=
+			V5SyW7WS8W556V+qeC9yPPDQPcs=
 			</data>
 			<key>hash2</key>
 			<data>
-			bnII8X1UvrazlU4lNDEyLG6TYAuSY9MlBpkC2CVJ7qQ=
+			pj+jYFZTl7aFqZAP/4AP8lZP3mKubC6wSm1wxs3lbeg=
 			</data>
 		</dict>
 		<key>Modules/BlitzzCobrowseSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			5XR65/mbshRuyEXvMPbgOgCXHeg=
+			qnAhqwgBTOJq9lGizazZYLqCyC4=
 			</data>
 			<key>hash2</key>
 			<data>
-			BI9igRplj2EwJAUY0BUAbDgF7x7i6FI1OTan6p3tYWQ=
+			nAFmk54pdIKURB7rskzoTJe+1oFrFd/KswPOTxpFqhw=
 			</data>
 		</dict>
 		<key>Modules/BlitzzCobrowseSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -162,22 +162,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			5XR65/mbshRuyEXvMPbgOgCXHeg=
+			qnAhqwgBTOJq9lGizazZYLqCyC4=
 			</data>
 			<key>hash2</key>
 			<data>
-			BI9igRplj2EwJAUY0BUAbDgF7x7i6FI1OTan6p3tYWQ=
+			nAFmk54pdIKURB7rskzoTJe+1oFrFd/KswPOTxpFqhw=
 			</data>
 		</dict>
 		<key>Modules/BlitzzCobrowseSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			9qu+C3c/R7y1gBqjsJ8dOR2lLgI=
+			ZWH3TJm0Brk1FdCO9CgnIKF/C04=
 			</data>
 			<key>hash2</key>
 			<data>
-			SsAj5PIXL/8AxwY8OAJ0VdoyyXBhkegxoY2bHL6Sgyo=
+			Uf6rUqm2bTtSFhNW0Si+OBVGvUBvNMAVJk5Tg5o9uAY=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

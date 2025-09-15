@@ -261,7 +261,6 @@
                 "kind": "TypeNominal",
                 "name": "String",
                 "printedName": "Swift.String",
-                "hasDefaultArg": true,
                 "usr": "s:SS"
               },
               {
@@ -34915,15 +34914,8 @@
     },
     {
       "filePath": "\/Users\/akash.shethsculptsoft.com\/Documents\/Mitali\/Cobrowse_iOS_SDK\/Sources\/BlitzzCobrowseSDK\/BlitzzCobrowse\/CoBrowseConfig.swift",
-      "kind": "StringLiteral",
-      "offset": 1099,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/akash.shethsculptsoft.com\/Documents\/Mitali\/Cobrowse_iOS_SDK\/Sources\/BlitzzCobrowseSDK\/BlitzzCobrowse\/CoBrowseConfig.swift",
       "kind": "BooleanLiteral",
-      "offset": 1124,
+      "offset": 1119,
       "length": 5,
       "value": "false"
     },
@@ -35021,42 +35013,42 @@
     {
       "filePath": "\/Users\/akash.shethsculptsoft.com\/Documents\/Mitali\/Cobrowse_iOS_SDK\/Sources\/BlitzzCobrowseSDK\/BlitzzCobrowse\/SessionRequestModel.swift",
       "kind": "StringLiteral",
-      "offset": 1271,
+      "offset": 1354,
       "length": 11,
       "value": "\"sessionId\""
     },
     {
       "filePath": "\/Users\/akash.shethsculptsoft.com\/Documents\/Mitali\/Cobrowse_iOS_SDK\/Sources\/BlitzzCobrowseSDK\/BlitzzCobrowse\/SessionRequestModel.swift",
       "kind": "StringLiteral",
-      "offset": 1332,
+      "offset": 1415,
       "length": 10,
       "value": "\"deviceId\""
     },
     {
       "filePath": "\/Users\/akash.shethsculptsoft.com\/Documents\/Mitali\/Cobrowse_iOS_SDK\/Sources\/BlitzzCobrowseSDK\/BlitzzCobrowse\/SessionRequestModel.swift",
       "kind": "StringLiteral",
-      "offset": 1610,
+      "offset": 1693,
       "length": 10,
       "value": "\"COBROWSE\""
     },
     {
       "filePath": "\/Users\/akash.shethsculptsoft.com\/Documents\/Mitali\/Cobrowse_iOS_SDK\/Sources\/BlitzzCobrowseSDK\/BlitzzCobrowse\/SessionRequestModel.swift",
       "kind": "StringLiteral",
-      "offset": 1654,
+      "offset": 1737,
       "length": 19,
       "value": "\"COBROWSERECORDING\""
     },
     {
       "filePath": "\/Users\/akash.shethsculptsoft.com\/Documents\/Mitali\/Cobrowse_iOS_SDK\/Sources\/BlitzzCobrowseSDK\/BlitzzCobrowse\/SessionRequestModel.swift",
       "kind": "StringLiteral",
-      "offset": 1702,
+      "offset": 1785,
       "length": 14,
       "value": "\"COBROWSECALL\""
     },
     {
       "filePath": "\/Users\/akash.shethsculptsoft.com\/Documents\/Mitali\/Cobrowse_iOS_SDK\/Sources\/BlitzzCobrowseSDK\/BlitzzCobrowse\/SessionRequestModel.swift",
       "kind": "StringLiteral",
-      "offset": 1753,
+      "offset": 1836,
       "length": 22,
       "value": "\"COBROWSEINTEGRATIONS\""
     },
